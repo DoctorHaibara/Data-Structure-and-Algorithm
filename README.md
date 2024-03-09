@@ -1,1 +1,1 @@
-# data structual and algrithem
+# Data structure
