@@ -1,0 +1,1 @@
+codes about linear list
