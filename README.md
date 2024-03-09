@@ -1,2 +1,2 @@
-## Assignments of the course of Data structure and Algorithm
-from the school of artificial intelligence ，Sun Yat-sen University
+## Assignments of the Course of Data Structure and Algorithm
+from the School of Artificial Intelligence ，Sun Yat-sen University
