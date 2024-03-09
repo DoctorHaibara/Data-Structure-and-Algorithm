@@ -1,2 +1,1 @@
-# cpp&c
-一些程序设计课的相关内容
+# data structual and algrithem
