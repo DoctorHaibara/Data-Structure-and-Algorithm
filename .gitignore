@@ -1,5 +1,5 @@
-.DS_Store
-.py
-.rar
-.zip
-.exe
+*.DS_Store
+*.py
+*.rar
+*.zip
+*.exe
